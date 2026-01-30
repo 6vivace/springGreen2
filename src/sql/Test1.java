@@ -1,4 +1,4 @@
-package test;
+package sql;
 
 public class Test1 {
 

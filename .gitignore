@@ -2,3 +2,4 @@
 images/*
 src/resources/images/*
 bin/resources/images/*
+/bin/
